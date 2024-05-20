@@ -6,11 +6,13 @@
 
 **Link :** https://public.tableau.com/app/profile/cigdem.sahin/viz/FriendsSeries_17162117407480/Dashboard1 
 
+
 **Data:**
 
 •	The dataset consists of 9 columns and 236 rows.
 
 •	Columns include: Episode Title, Description, Season, Episode, Duration (minutes), Year, Director, Total Stars, and Total Votes.
+
 
 **Dashboard Features:**
 
@@ -23,6 +25,7 @@
 **•	Vertical Bar Chart:** Shows the total votes by season and episode.
 
 **•	Box Plot:** Illustrates the distribution of total stars by season and episode.
+
 
 **Analytical Uses:**
 
