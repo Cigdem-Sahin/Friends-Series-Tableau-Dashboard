@@ -14,13 +14,15 @@
 
 **Dashboard Features:**
 
-•	Filters: Allows users to filter data by episode and provides season, episode, year, duration in units, total stars, and total votes information of the filtered data.
+**•	Filters:** Allows users to filter data by episode and provides season, episode, year, duration in units, total stars, and total votes information of the filtered data.
 
-•	Word Cloud: Visualizes the frequency of directors.
+**•	Word Cloud:** Visualizes the frequency of directors.
 
-•	Horizontal Bar Chart: Displays the total number of episodes by season.
-•	Vertical Bar Chart: Shows the total votes by season and episode.
-•	Box Plot: Illustrates the distribution of total stars by season and episode.
+**•	Horizontal Bar Chart:** Displays the total number of episodes by season.
+
+**•	Vertical Bar Chart:** Shows the total votes by season and episode.
+
+**•	Box Plot:** Illustrates the distribution of total stars by season and episode.
 
 **Analytical Uses:**
 
