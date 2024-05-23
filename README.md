@@ -1,8 +1,10 @@
 # Friends-Series-Dashboard
 
-##**Project:** Friends Series Interactive Dashboard
+##**Project:** 
+Friends Series Interactive Dashboard
 
-##**Overview**: This project involves creating an interactive dashboard using Tableau, based on data from the Friends series.
+##**Overview**: 
+This project involves creating an interactive dashboard using Tableau, based on data from the Friends series.
 
 **Link :** 
 
