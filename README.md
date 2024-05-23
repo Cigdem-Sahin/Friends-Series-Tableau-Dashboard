@@ -1,9 +1,9 @@
 # Friends-Series-Dashboard
 
-##**Project:** 
+## **Project:** 
 Friends Series Interactive Dashboard
 
-##**Overview**: 
+## **Overview**: 
 This project involves creating an interactive dashboard using Tableau, based on data from the Friends series.
 
 **Link :** 
@@ -12,7 +12,7 @@ Friends Series Dashboard link is [here](https://public.tableau.com/app/profile/c
 
 <img width="1435" alt="image" src="https://github.com/Cigdem-Sahin/Friends-Series-Tableau-Dashboard/assets/166864144/1fb09bb9-bd42-4741-a038-3b91058b28c4">
 
-##**Data:**
+## **Data:**
 
 •	The dataset consists of 9 columns and 236 rows.
 
@@ -20,7 +20,7 @@ Friends Series Dashboard link is [here](https://public.tableau.com/app/profile/c
 
 You can access the data set from [here](https://github.com/Cigdem-Sahin/Friends-Series-Tableau-Dashboard/blob/main/Friends%20dataset.csv)
 
-##**Dashboard Features:**
+## **Dashboard Features:**
 
 **•	Filters:** Allows users to filter data by episode and provides season, episode, year, duration in units, total stars, and total votes information of the filtered data.
 
@@ -33,7 +33,7 @@ You can access the data set from [here](https://github.com/Cigdem-Sahin/Friends-
 **•	Box Plot:** Illustrates the distribution of total stars by season and episode.
 
 
-##**Analytical Uses:**
+## **Analytical Uses:**
 
 This dashboard utilizes a word cloud for directors, a horizontal bar chart for total episodes by season, a vertical bar chart for total votes by season and episode, and a box plot for total stars by season and episode. In addition, the dashboard allows you to filter the episode and show season, episode, year, duration in units, total stars, and total votes information for the filtered episode.
 
